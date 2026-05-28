@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoreCR1Tests" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-05-28T22:08:51.692Z" hostname="MIHAI_PELLE_PC" time="0.01">
+  <properties/>
+  <testcase name="test_cr1_spring_apple_threshold1()" classname="StoreCR1Tests" time="0.001"/>
+  <testcase name="test_cr1_spring_apple_threshold2()" classname="StoreCR1Tests" time="0.0"/>
+  <testcase name="test_cr1_normal_apple_threshold1()" classname="StoreCR1Tests" time="0.001"/>
+  <testcase name="test_cr1_normal_apple_threshold2()" classname="StoreCR1Tests" time="0.001"/>
+  <testcase name="test_cr1_spring_banana_threshold1()" classname="StoreCR1Tests" time="0.001"/>
+  <testcase name="test_cr1_spring_banana_threshold2()" classname="StoreCR1Tests" time="0.0"/>
+  <testcase name="test_cr1_winter_banana_threshold1()" classname="StoreCR1Tests" time="0.0"/>
+  <testcase name="test_cr1_normal_banana_threshold1()" classname="StoreCR1Tests" time="0.0"/>
+  <testcase name="test_cr1_winter_apple_threshold1()" classname="StoreCR1Tests" time="0.0"/>
+  <testcase name="test_cr1_winter_apple_threshold2()" classname="StoreCR1Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoreCR0Tests" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-05-28T22:08:51.637Z" hostname="MIHAI_PELLE_PC" time="0.046">
+  <properties/>
+  <testcase name="test_cr0_example9_1_01kgApple()" classname="StoreCR0Tests" time="0.028"/>
+  <testcase name="test_cr0_example10_1_99kgBanana()" classname="StoreCR0Tests" time="0.001"/>
+  <testcase name="test_cr0_example15_3_789kgApple_2_777kgBanana()" classname="StoreCR0Tests" time="0.003"/>
+  <testcase name="test_cr0_example6_2kgBanana_withDiscount()" classname="StoreCR0Tests" time="0.001"/>
+  <testcase name="test_cr0_example1_1kgApple()" classname="StoreCR0Tests" time="0.001"/>
+  <testcase name="test_cr0_example11_1_789kgApple()" classname="StoreCR0Tests" time="0.0"/>
+  <testcase name="test_cr0_example12_2_01kgBanana_withDiscount()" classname="StoreCR0Tests" time="0.003"/>
+  <testcase name="test_cr0_example14_5_001kgApple_withDiscount()" classname="StoreCR0Tests" time="0.001"/>
+  <testcase name="test_cr0_example7_moreApples_total5kg()" classname="StoreCR0Tests" time="0.0"/>
+  <testcase name="test_cr0_example2_2kgApple()" classname="StoreCR0Tests" time="0.0"/>
+  <testcase name="test_cr0_example3_5kgApple_withDiscount()" classname="StoreCR0Tests" time="0.0"/>
+  <testcase name="test_cr0_example5_1kgApple_1kgBanana()" classname="StoreCR0Tests" time="0.0"/>
+  <testcase name="test_cr0_example8_2kgApple_2kgBanana()" classname="StoreCR0Tests" time="0.001"/>
+  <testcase name="test_cr0_example4_20kgApple_withDiscount()" classname="StoreCR0Tests" time="0.0"/>
+  <testcase name="test_cr0_example13_3_333kgApple_1_777kgBanana()" classname="StoreCR0Tests" time="0.0"/>
+  <system-out><![CDATA[814.05
+815.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

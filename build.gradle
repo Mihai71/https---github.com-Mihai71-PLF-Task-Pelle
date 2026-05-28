@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+// Build output goes outside OneDrive to avoid sync-related file locks
+layout.buildDirectory = new File(System.getProperty('user.home'), 'AppData/Local/Temp/progtech-cr0-build')
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.11.0'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+test {
+    useJUnitPlatform()
+    outputs.upToDateWhen { false }  // always re-run, always show individual tests
+    testLogging {
+        events "passed", "failed", "skipped"
+    }
+}

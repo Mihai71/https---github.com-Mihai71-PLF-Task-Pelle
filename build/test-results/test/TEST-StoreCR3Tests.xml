@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoreCR3Tests" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-05-28T22:08:51.717Z" hostname="MIHAI_PELLE_PC" time="0.008">
+  <properties/>
+  <testcase name="test_cr3_example7_notZeroFinal()" classname="StoreCR3Tests" time="0.001"/>
+  <testcase name="test_cr3_example2_a10PlusUltramax()" classname="StoreCR3Tests" time="0.001"/>
+  <testcase name="test_cr3_example10_criticalOrder()" classname="StoreCR3Tests" time="0.0"/>
+  <testcase name="test_cr3_example6_b10Unused()" classname="StoreCR3Tests" time="0.0"/>
+  <testcase name="test_cr3_example8_bigBananaCart()" classname="StoreCR3Tests" time="0.001"/>
+  <testcase name="test_cr3_example4_a10AndUltramax()" classname="StoreCR3Tests" time="0.0"/>
+  <testcase name="test_cr3_example5_twoProducts_oneCoupon()" classname="StoreCR3Tests" time="0.0"/>
+  <testcase name="test_cr3_example3_twoUltramax()" classname="StoreCR3Tests" time="0.001"/>
+  <testcase name="test_cr3_example2b_ultramaxPlusA10()" classname="StoreCR3Tests" time="0.001"/>
+  <testcase name="test_cr3_example1_onlyUltramax()" classname="StoreCR3Tests" time="0.0"/>
+  <testcase name="test_cr3_example9_twoUltramax_notZero()" classname="StoreCR3Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

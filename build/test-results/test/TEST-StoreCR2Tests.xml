@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoreCR2Tests" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-05-28T22:08:51.704Z" hostname="MIHAI_PELLE_PC" time="0.012">
+  <properties/>
+  <testcase name="test_cr2_example9_free_first_then_no_merge()" classname="StoreCR2Tests" time="0.002"/>
+  <testcase name="test_cr2_example8_free_excluded_by_a10()" classname="StoreCR2Tests" time="0.001"/>
+  <testcase name="test_cr2_example13_two_coupons_same_product()" classname="StoreCR2Tests" time="0.0"/>
+  <testcase name="test_cr2_example7_two_different_coupons()" classname="StoreCR2Tests" time="0.0"/>
+  <testcase name="test_cr2_example6_free_and_quantity()" classname="StoreCR2Tests" time="0.001"/>
+  <testcase name="test_cr2_example11_coupon_worse_than_discount()" classname="StoreCR2Tests" time="0.001"/>
+  <testcase name="test_cr2_example14_coupon_for_wrong_product()" classname="StoreCR2Tests" time="0.0"/>
+  <testcase name="test_cr2_example1_b10_not_applicable()" classname="StoreCR2Tests" time="0.0"/>
+  <testcase name="test_cr2_example5_free_apple()" classname="StoreCR2Tests" time="0.001"/>
+  <testcase name="test_cr2_example10_free_then_percentage_not_applicable()" classname="StoreCR2Tests" time="0.001"/>
+  <testcase name="test_cr2_example3_wrong_order()" classname="StoreCR2Tests" time="0.0"/>
+  <testcase name="test_cr2_example2_a10_applicable()" classname="StoreCR2Tests" time="0.0"/>
+  <testcase name="test_cr2_example4_better_order()" classname="StoreCR2Tests" time="0.001"/>
+  <testcase name="test_cr2_example12_free_removes_discount()" classname="StoreCR2Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
